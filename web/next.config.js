@@ -11,5 +11,3 @@ const config = {
 module.exports = {
   output: 'standalone',
 }
-
-export default config;
